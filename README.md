@@ -1,3 +1,5 @@
+![AutoFlow — screen capture, Excel loops, and scheduled automation](assets/autoflow-banner.png)
+
 # AutoFlow
 
 Free Windows desktop automation — capture the screen, connect steps, and automate repetitive work.
