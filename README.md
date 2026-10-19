@@ -8,11 +8,10 @@ Free Windows desktop automation — capture the screen, connect steps, and autom
 
 [Download AutoFlow for Windows x64](https://github.com/bonolabs/autoflow/releases/latest/download/AutoFlow-Setup.exe)
 
-[All releases, portable ZIP, corresponding third-party sources and SHA-256 checksums](https://github.com/bonolabs/autoflow/releases)
+[All releases, corresponding third-party sources and SHA-256 checksums](https://github.com/bonolabs/autoflow/releases)
 
 AutoFlow 0.1.0 is now available.
-You do not need Python installed. Use the installer for the normal setup, or extract the entire
-portable ZIP and run AutoFlow.exe. Keep the `_internal` directory beside the executable.
+Download AutoFlow-Setup.exe and run the installer. You do not need Python installed.
 
 ## Features
 
