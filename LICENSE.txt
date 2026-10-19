@@ -1,0 +1,53 @@
+AutoFlow Freeware License 1.0
+Copyright (c) 2026 bonolabs. All rights reserved.
+
+IMPORTANT THIRD-PARTY NOTICE
+AutoFlow uses Qt for Python / Qt and pynput under the GNU LGPL. Their license
+texts, copyright notices, corresponding source access and replacement instructions
+are in THIRD_PARTY_NOTICES.txt and licenses/. These components are NOT relicensed
+under this agreement. Their licenses prevail for their respective components.
+
+1. Free use
+You may install and use the official, unmodified AutoFlow application without
+charge for personal use and internal business, educational, governmental or
+non-profit work. You may make backup copies and distribute unmodified copies
+within your organization for those permitted uses, retaining all notices.
+
+2. Ownership and distribution
+AutoFlow's original application code, branding and artwork remain the property
+of their respective rightsholders. This license does not grant access to the
+proprietary application source code. Do not sell the application, bundle it into
+a paid product, distribute modified versions, remove attribution or impersonate
+the developer without written permission. For public sharing, link to the official
+download at https://github.com/bonolabs/autoflow/releases .
+
+3. Third-party and mandatory rights
+Nothing here restricts rights granted by third-party open-source licenses or
+mandatory law. In particular, you may modify or replace LGPL-covered libraries
+and perform reverse engineering of AutoFlow to debug modifications to those
+libraries, as required by the LGPL. See licenses/LGPL-REPLACEMENT.md.
+
+4. Optional support
+Ko-fi contributions are voluntary support, not a purchase, subscription or a
+condition for using features. A contribution does not promise a particular
+update, support response or future service.
+
+5. Your work and responsible use
+Your projects, screenshots, spreadsheets and other input remain yours. Obtain
+permission to automate the target systems and review a flow before running it.
+AutoFlow sends mouse/keyboard input and can change data in other applications.
+
+6. Warranty and liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+OR NON-INFRINGEMENT. THE RIGHTSHOLDERS ARE NOT LIABLE FOR LOSS OF DATA, PROFITS
+OR OTHER DAMAGES ARISING FROM ITS USE. Nothing excludes liability or statutory
+rights that cannot lawfully be excluded or limited.
+
+7. Scope and future versions
+These terms apply to the version supplied with them. Third-party components keep
+their original licenses. New versions may have different terms; that does not
+retroactively change this license for a copy already received.
+
+Official distribution / contact: https://github.com/bonolabs/autoflow
+Optional support: https://ko-fi.com/autoflow_dev

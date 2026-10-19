@@ -1,0 +1,47 @@
+[
+  {
+    "file": "qtsvg-everywhere-src-6.11.2.tar.xz",
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qtsvg-everywhere-src-6.11.2.tar.xz",
+    "sha256": "d594337feca84c26fb67fe87b85e6a5c12fda404b611d905f9d138210c311876"
+  },
+  {
+    "file": "qttranslations-everywhere-src-6.11.2.tar.xz",
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qttranslations-everywhere-src-6.11.2.tar.xz",
+    "sha256": "021684c1a7937a9fabc3b056a6698ad5978794caf9ac190fd6cc11399e67c014"
+  },
+  {
+    "file": "pyside-setup-6.11.2.tar.gz",
+    "url": "https://codeload.github.com/qtproject/pyside-pyside-setup/tar.gz/refs/tags/v6.11.2",
+    "sha256": "f07860ed91bcfd30e04afec869dcbb51984d5f32d8fff3ad766bd143096a2d43"
+  },
+  {
+    "file": "qtbase-6.11.2.tar.gz",
+    "url": "https://codeload.github.com/qt/qtbase/tar.gz/refs/tags/v6.11.2",
+    "sha256": "06cd7aa6b3ab19cb5a1664a2891ef0df960f78c97fa31b80b1d6d7ee70688414"
+  },
+  {
+    "file": "pynput-1.8.2.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/86/c6/e2d415610cfbc78308bee44218a46124aaa3301b1df08814df819b2254a1/pynput-1.8.2.tar.gz",
+    "sha256": "f493c87157cd3861b4468f7f896857051762f44ed26f1b641e7cc5840a457087"
+  },
+  {
+    "file": "openpyxl-3.1.5.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/3d/f9/88d94a75de065ea32619465d2f77b29a0469500e99012523b91cc4141cd1/openpyxl-3.1.5.tar.gz",
+    "sha256": "cf0e3cf56142039133628b5acffe8ef0c12bc902d2aadd3e0fe5878dc08d1050"
+  },
+  {
+    "file": "et_xmlfile-2.0.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/d3/38/af70d7ab1ae9d4da450eeec1fa3918940a5fafb9055e934af8d6eb0c2313/et_xmlfile-2.0.0.tar.gz",
+    "sha256": "dab3f4764309081ce75662649be815c4c9081e88f0837825f90fd28317d4da54"
+  },
+  {
+    "file": "PyGetWindow-0.0.9.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/e1/70/c7a4f46dbf06048c6d57d9489b8e0f9c4c3d36b7479f03c5ca97eaa2541d/PyGetWindow-0.0.9.tar.gz",
+    "sha256": "17894355e7d2b305cd832d717708384017c1698a90ce24f6f7fbf0242dd0a688"
+  },
+  {
+    "file": "cython-3.3.0.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/a9/d8/4981ef716ad0e3ff0d3ef383aefc6b03c4a88dee33b272bf8e0d833001ca/cython-3.3.0.tar.gz",
+    "sha256": "eed0d93fbca7087f143b42c34b05a825849bdf17f101572c2105acfa49aa88b8"
+  }
+]

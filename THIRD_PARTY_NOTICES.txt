@@ -1,0 +1,44 @@
+AutoFlow 0.1.0 — Third-party software notices
+
+AutoFlow original application code uses the proprietary Freeware License in LICENSE.txt.
+Third-party components retain their own licenses; those rights prevail over the EULA.
+
+Qt for Python (PySide6/Shiboken), Qt and pynput are used under LGPLv3, unmodified.
+LGPL/GPL license texts, source manifest and library replacement instructions are in licenses/.
+Corresponding sources (no fee): AutoFlow-ThirdParty-Sources-0.1.0.zip at
+https://github.com/bonolabs/autoflow/releases .
+
+The source archive is supplied alongside each binary release and includes complete QtBase,
+QtSvg, QtTranslations, PySide/Shiboken and pynput source archives. LGPL libraries can be
+modified/replaced; reverse engineering for debugging such changes is permitted.
+See licenses/LGPL-REPLACEMENT.md for exact locations, ABI requirements and rebuild guidance.
+
+Included packages (detailed original notices under licenses/ and inventory.json):
+- PySide6 6.11.2: LGPL-3.0-only (selected option)
+- PySide6_Essentials 6.11.2: LGPL-3.0-only (selected option)
+- PySide6_Addons 6.11.2: LGPL-3.0-only (selected option)
+- shiboken6 6.11.2: LGPL-3.0-only (selected option)
+- pynput 1.8.2: LGPLv3
+- PyAutoGUI 0.9.54: BSD
+- PyGetWindow 0.0.9: BSD
+- PyMsgBox 2.0.1: Copyright (c) 2014, Al Sweigart
+- PyRect 0.2.0: BSD
+- PyScreeze 1.0.1: MIT
+- pytweening 1.2.0: MIT
+- pyperclip 1.11.0: BSD
+- mss 10.2.0: MIT License
+- numpy 2.5.3: BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0
+- opencv-python 5.0.0.93: Apache 2.0
+- openpyxl 3.1.5: MIT
+- et_xmlfile 2.0.0: MIT
+- six 1.17.0: MIT
+- pyinstaller 6.22.3: GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)
+- Cython 3.3.0: Apache-2.0
+
+Python 3.12.14: Python Software Foundation license, licenses/Python-3.12.14.txt.
+Lucide icons: ISC; Material Symbols: Apache-2.0; see licenses/Icons-LICENSE.txt.
+NumPy, OpenCV and Qt contain additional third-party libraries; their upstream notice
+texts and Qt source attribution files are also included, with original copyright holders.
+The OpenCV FFmpeg DLL and optional GPL MouseInfo utility are NOT included.
+PyInstaller permits proprietary frozen applications through its bootloader exception.
+Inno Setup is the installer build tool; see https://jrsoftware.org/files/is/license.txt .
