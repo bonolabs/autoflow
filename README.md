@@ -12,7 +12,7 @@ Free Windows desktop automation — capture the screen, connect steps, and autom
 
 [All releases, corresponding third-party sources and SHA-256 checksums](https://github.com/bonolabs/autoflow/releases)
 
-AutoFlow 0.1.1 is now available.
+AutoFlow 0.1.2 is now available.
 Download AutoFlow-Setup.exe and run the installer. You do not need Python installed.
 
 ## Features
@@ -50,6 +50,6 @@ version and steps to reproduce. Remove personal data and credentials from screen
 
 ## Release status
 
-Version 0.1.1 is publicly available. Automated checks do not replace real installation
+Version 0.1.2 is publicly available. Automated checks do not replace real installation
 and live automation checks. New unsigned executables may display Windows reputation warnings;
 verify the official download source and the SHA-256 checksum before running.
